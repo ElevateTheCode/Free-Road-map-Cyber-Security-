@@ -747,3 +747,20 @@ Resources for eCPPTv2, OSCP and many more
 ---
 
 
+🚨 SHARE SOMEONE NEEDS IT 🚨 
+
+⭕Free Cybersecurity Certificates by EC-Council
+11 different courses to gain PROJECT experience/skill build. 
+ 
+1. Android Bug Bounty Hunting: Hunt Like a Rat: https://lnkd.in/gs6MNq2k
+2. Make In-house Hacking and Pentesting Lab: https://lnkd.in/g48xGp8k
+3. Configure Juniper SRX Router Using J-Web: https://lnkd.in/gHayUqmM
+4. Dark Web, Anonymity, and Cryptocurrency: https://lnkd.in/gpgj772W
+5. IoT with Raspberry Pi 4: https://lnkd.in/gdH4mKss
+6. Raspberry Pi Smart Emergency Alert System: https://lnkd.in/grQAQdbh
+7. Cisco LABS Crash Course: https://lnkd.in/g_yHZZay
+8. Build Your Own NetApp Storage Lab: https://lnkd.in/gtCBW6jX
+9. SQL Injection Attacks: https://lnkd.in/g7jKVEgQ
+10. Scrum Certification, Scrum Master, Agile Scrum: https://lnkd.in/gq2i8d7e
+11. Industrial Cybersecurity with IEC 62443-3: https://lnkd.in/gBdaSza7
+
